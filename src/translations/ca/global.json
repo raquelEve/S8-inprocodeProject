@@ -1,0 +1,11 @@
+{
+  "header": {
+    "hello-world": "hola mon"
+  },
+  "totalWeek": "despeses setmanals",
+  "chart": {
+    "weeklyExpenses": "Despeses de la setmana",
+    "todayExpenses": "Despesa d'avui",
+    "difFromYesterday": "direfencia respecte ahir"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "header": {
+    "hello-world": "hello world"
+  },
+  "totalWeek": "weekly expenses",
+  "chart": {
+    "weeklyExpenses": "expenses for the week",
+    "todayExpenses": "today's expenses",
+    "difFromYesterday": "direfence from yesterday"
+  }
+}
