@@ -83,3 +83,13 @@ $ npm install @testing-library/react @testing-library/user-event @testing-librar
 ```
 import '@testing-library/jest-dom'
 ```
+&#128459; package.json
+```
+"scripts": {
+  "test": "vitest"
+}
+```
+# run test
+```
+npm test
+```
