@@ -104,8 +104,8 @@ export default function BarChartComp() {
     <div className='p-4 bg-white rounded-3'>
       <h2>{t("chart.weeklyExpenses")} {indexWeek + 1}</h2>
       <Bar data={myData} options={myOptions} />
-      <h1>{t("chart.todayExpenses")} {todayExpense}€</h1>
-      <h3>{t("chart.difFromYesterday")} direfencia respecte ahir {yesterdayPercent} %</h3>
+      <h1>{t("chart.todayExpenses")} <span id="todayExpenses">{todayExpense}</span>€</h1>
+      <h3>{t("chart.difFromYesterday")} <span id="difFromYesterday">{yesterdayPercent}</span> %</h3>
     </div>
   )
 }
