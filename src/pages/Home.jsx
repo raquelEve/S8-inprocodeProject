@@ -13,7 +13,6 @@ export default function Home() {
     return (
         <>
             <ChangeLanguage></ChangeLanguage>
-            <h1>{t("header.hello-world")}</h1>
             <main className='container'>
                 <TotalWeekly></TotalWeekly>
                 <BarChartComp></BarChartComp>
