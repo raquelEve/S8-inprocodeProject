@@ -1,5 +1,5 @@
 
-# Inprocode
+# Inprocode Project
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/768px-React-icon.svg.png" height="40px">
