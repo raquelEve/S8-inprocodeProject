@@ -90,7 +90,7 @@ import '@testing-library/jest-dom'
   "test": "vitest"
 }
 ```
-# run test
+# run test: vitest
 ```
 npx vitest
 ```
